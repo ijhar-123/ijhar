@@ -1,6 +1,6 @@
 import profilePic from "../assets/raviKumarProfile.jpg";
 import { HERO_CONTENT } from "../constants";
-import { motion } from "framer-motion";
+
 import Spline from "@splinetool/react-spline";
 
 const containerVariants = {
